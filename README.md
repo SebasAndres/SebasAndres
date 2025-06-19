@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- Computer Science student at UBA
+- ML & Robotics fan! :)
+  
 <!--
 **SebasAndres/SebasAndres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
