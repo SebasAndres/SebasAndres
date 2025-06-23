@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- Computer Science student at UBA
+- Computer Science student @ UBA
 - ML & Robotics fan! :)
   
 <!--
