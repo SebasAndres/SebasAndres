@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-- Computer & Data Science student @ UBA
-- ML & Robotics fan!😃
+- 📚 Computer & Data Science student @ UBA
+- 🔭 ML, NLP & Robotics fan!😃
+- 🧑‍🔬 I’m currently working at MUTT DATA
+- 📫 How to reach me: sebastian.ignacio.andres@gmail.com
   
 <!--
 **SebasAndres/SebasAndres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
