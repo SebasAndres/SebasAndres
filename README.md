@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 📚 Computer & Data Science student @ UBA
-- 🔭 ML, NLP & Robotics fan!😃
+- 🔭 ML, NLP & Robotics!😃
 - 🧑‍🔬 I’m currently working at MUTT DATA
 - 📫 How to reach me: sebastian.ignacio.andres@gmail.com
   
