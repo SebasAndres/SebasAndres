@@ -5,7 +5,7 @@
 - 🧑‍🔬 I’m currently working at MUTT DATA
 - 📫 How to reach me: sebastian.ignacio.andres@gmail.com
 
-Container of university code and project sketches 🛰️
+Container of university code and projects sketches 🛰️
   
 <!--
 **SebasAndres/SebasAndres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
