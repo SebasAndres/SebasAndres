@@ -4,6 +4,8 @@
 - 🔭 ML, NLP & Robotics!😃
 - 🧑‍🔬 I’m currently working at MUTT DATA
 - 📫 How to reach me: sebastian.ignacio.andres@gmail.com
+
+Container of sketches, projects and university code 🛰️
   
 <!--
 **SebasAndres/SebasAndres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
